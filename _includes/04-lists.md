@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+#### This is a list of a few of my favorite things
+- GitHub :+1:
+- Nice cars like a Tesla??? :palm_tree:
+- Anything nice! :smile:
